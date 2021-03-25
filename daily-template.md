@@ -7,3 +7,4 @@ tags: periodic, weekly
 
 ## Other
 
+[[{{tp_yesterday}}|Go to yesterday's note]]
